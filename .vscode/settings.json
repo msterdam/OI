@@ -1,0 +1,26 @@
+{
+    "python.pythonPath": "C:\\Users\\lishu\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "editor.smoothScrolling": true,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.mouseWheelScrollSensitivity": 1,
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.saveAllFilesBeforeRun": false,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {
+            "cpp": "g++ $fileName  -o $fileNameWithoutExt.exe && ./$fileNameWithoutExt.exe"
+    },
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.fontSize": 16,
+    "workbench.panel.defaultLocation": "right",
+    "C_Cpp.errorSquiggles": "Enabled",
+}
