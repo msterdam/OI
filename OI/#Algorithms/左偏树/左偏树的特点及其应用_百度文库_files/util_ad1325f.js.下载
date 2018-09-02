@@ -1,0 +1,1 @@
+define("wkview:widget/view_recom_thirdad/lib/util.js",function(e,i){i.query2JSON=function(e){for(var i,t,n,r,s=e.substr(e.lastIndexOf("?")+1),u=s.split("&"),d=u.length,f={},l=0;d>l;l++)u[l]&&(r=u[l].split("="),i=r[0],t=r[1],n=f[i],"undefined"==typeof n?f[i]=t:$.isArray(n)?n.push(t):f[i]=[n,t]);return f}});
