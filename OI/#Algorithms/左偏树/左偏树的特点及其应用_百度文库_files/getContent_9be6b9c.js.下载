@@ -1,1 +1,0 @@
-define("wkview:widget/kg_recommend/util/getContent.js",function(e,t){var n=e("wkcommon:widget/ui/lib/jquery/jquery.js"),i=(e("wkview:widget/kg_recommend/util/config.js"),function(e,t){var e=e+"?callback=?";return n.getJSON(e,t)});t.getContent=i});
