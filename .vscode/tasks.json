@@ -26,6 +26,7 @@
                 "args": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                     "-g ${fileDirname}/${file}",   //指定编译源代码文件                    
                     "-o ${fileDirname}/${fileBasenameNoExtension}.exe", // 指定输出文件名，不加该参数则默认输出a.exe
                     "-ggdb3",   // 生成和调试有关的信息
@@ -38,12 +39,17 @@
 =======
 =======
 >>>>>>> parent of a0783b0... Update
+=======
+>>>>>>> parent of a0783b0... Update
                     "-ggdb",
                     "\"${file}\"",
                     "--std=c++11",
                     "-o",
                     "\"${fileDirname}\\${fileBasenameNoExtension}.exe\""
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of a0783b0... Update
+=======
 >>>>>>> parent of a0783b0... Update
 =======
 >>>>>>> parent of a0783b0... Update
