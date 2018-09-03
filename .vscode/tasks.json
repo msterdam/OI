@@ -35,7 +35,6 @@
                     "-fexec-charset=GBK"//编译器输出文本编码 自行选择
                 ]
             }
-            
         }
     ],
     "problemMatcher": {
