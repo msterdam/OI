@@ -17,7 +17,7 @@
     "code-runner.saveAllFilesBeforeRun": false,
     "code-runner.saveFileBeforeRun": true,
     "code-runner.executorMap": {
-            "cpp": "g++ $fileName  -o $fileNameWithoutExt.exe && ./$fileNameWithoutExt.exe"
+            "cpp": "./$fileDirname/ && g++ $fileName  -o $fileNameWithoutExt.exe && ./$fileNameWithoutExt.exe"
     },
     "terminal.integrated.cursorStyle": "block",
     "terminal.integrated.fontSize": 16,
